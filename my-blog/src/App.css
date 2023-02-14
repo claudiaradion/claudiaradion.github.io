@@ -1,0 +1,21 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  font-size: xx-large;
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+body {
+  background-color: #f2e9e4;
+}
+
+h1 {
+  color: #22223b;
+}
+
+p {
+  color: #4a4e69;
+}
+
+/* colors: f2e9e4, c9ada7, 9a8c98, 4a4e69, 22223b */
