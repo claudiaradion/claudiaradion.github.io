@@ -1,4 +1,4 @@
-import FirstArticle from '../FirstArticle';
+import FirstArticle from './FirstArticle';
 
 const Blog = () => {
     return (
