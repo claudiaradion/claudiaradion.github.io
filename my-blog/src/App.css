@@ -1,9 +1,6 @@
 * {
   font-family: 'Raleway', sans-serif;
   font-size: xx-large;
-  margin-top: 5%;
-  margin-left: 3%;
-  margin-right: 3%;
 }
 
 body {
@@ -16,6 +13,12 @@ h1 {
 
 p {
   color: #4a4e69;
+}
+
+.TextDiv {
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
 /* colors: f2e9e4, c9ada7, 9a8c98, 4a4e69, 22223b */
