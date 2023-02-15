@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
-import NoPage from "./NoPage";
+import NoPage from "./pages/NoPage";
 import Blog from "./pages/Blog";
 
 function CustomMenu() {
