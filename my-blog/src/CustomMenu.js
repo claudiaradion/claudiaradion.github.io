@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
-import NoPage from "./pages/NoPage";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Blog from "./pages/Blog";
 
 function CustomMenu() {
@@ -14,7 +14,7 @@ function CustomMenu() {
                     <Route index element={<Home />} />
                     <Route path="blog" element={<Blog />} />
                     <Route path="contact" element={<Contact />} />
-                    <Route path="android" element={<NoPage />} />
+                    <Route path="android" element={<PrivacyPolicy />} />
                 </Route>
             </Routes>
         </BrowserRouter>
