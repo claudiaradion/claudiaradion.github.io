@@ -14,7 +14,7 @@ function CustomMenu() {
                     <Route index element={<Home />} />
                     <Route path="blog" element={<Blog />} />
                     <Route path="contact" element={<Contact />} />
-                    <Route path="*" element={<NoPage />} />
+                    <Route path="android" element={<NoPage />} />
                 </Route>
             </Routes>
         </BrowserRouter>
